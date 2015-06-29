@@ -1,7 +1,7 @@
 # Codebox
 > "Open source cloud & desktop IDE."
 
-[![Build Status](https://travis-ci.org/CodeboxIDE/codebox.png?branch=master)](https://travis-ci.org/CodeboxIDE/codebox)
+[![Build Status](https://travis-ci.org/code-box/codebox.png?branch=master)](https://travis-ci.org/code-box/codebox)
 [![NPM version](https://badge.fury.io/js/codebox.svg)](http://badge.fury.io/js/codebox)
 
 Codebox is a complete and modular Cloud IDE. It can run on any unix-like machine (Linux, Mac OS X). It is an open source component of [codebox.io](https://www.codebox.io) (Cloud IDE as a Service).

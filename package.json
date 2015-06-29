@@ -8,7 +8,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/CodeboxIDE/codebox.git"
+        "url": "https://github.com/code-box/codebox.git"
     },
     "keywords": [
         "cli", "ide", "server", "desktop", "development", "code", "editor"
@@ -84,23 +84,23 @@
         "merge-stream": "0.1.7"
     },
     "packageDependencies": {
-        "about": "CodeboxIDE/package-about",
-        "command-palette": "CodeboxIDE/package-command-palette",
-        "files-tree": "CodeboxIDE/package-files-tree",
-        "tabs": "CodeboxIDE/package-tabs",
-        "editor": "CodeboxIDE/package-editor",
-        "editorsync": "CodeboxIDE/package-editorsync",
-        "terminal": "CodeboxIDE/package-terminal",
-        "pkgcontrol": "CodeboxIDE/package-pkgcontrol",
-        "statusbar": "CodeboxIDE/package-statusbar",
-        "watcher": "CodeboxIDE/package-watcher",
-        "panels": "CodeboxIDE/package-panels",
-        "find": "CodeboxIDE/package-find",
-        "git": "CodeboxIDE/package-git",
-        "settings": "CodeboxIDE/package-settings",
-        "menubar": "CodeboxIDE/package-menubar",
-        "image": "CodeboxIDE/package-image",
-        "ctags": "CodeboxIDE/package-ctags"
+        "about": "code-box/package-about",
+        "command-palette": "code-box/package-command-palette",
+        "ctags": "code-box/package-ctags",
+        "editor": "code-box/package-editor",
+        "editorsync": "code-box/package-editorsync",
+        "files-tree": "code-box/package-files-tree",
+        "find": "code-box/package-find",
+        "git": "code-box/package-git",
+        "image": "code-box/package-image",
+        "menubar": "code-box/package-menubar",
+        "panels": "code-box/package-panels",
+        "pkgcontrol": "code-box/package-pkgcontrol",
+        "settings": "code-box/package-settings",
+        "statusbar": "code-box/package-statusbar",
+        "tabs": "code-box/package-tabs",
+        "terminal": "code-box/package-terminal",
+        "watcher": "code-box/package-watcher"
     },
     "scripts": {
         "test": "export TESTING=true; mocha --reporter list"
